@@ -566,7 +566,7 @@
       {
         "path": "UserPlugins/reaper_reapack-x64.dll",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.2.4rc2/reaper_reapack-x64.dll",
-        "sha256": "0plawjdrfchj0icf1aasgbk32j1qdyh1a10xn6jz62gy9jsp0f9n"
+        "sha256": ""
       },
       {
         "path": "UserPlugins/reaper_reapack-x86.dll",
