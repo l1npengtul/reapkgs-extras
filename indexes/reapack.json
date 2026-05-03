@@ -1187,7 +1187,7 @@
       {
         "path": "UserPlugins/reaper_reapack32.dylib",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.1/reaper_reapack32.dylib",
-        "sha256": ""
+        "sha256": "0rhhp5iq7gzmia67bqdf4yd6rjsh6110wcgd8668mfbwj5l9sbqa"
       },
       {
         "path": "UserPlugins/reaper_reapack64.dll",
@@ -1209,7 +1209,7 @@
       {
         "path": "UserPlugins/reaper_reapack32.dylib",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.1rc7/reaper_reapack32.dylib",
-        "sha256": ""
+        "sha256": "01yi661mkvchha74zs2vrp132aangrmxs13vhnxywb8w72vkvmp2"
       },
       {
         "path": "UserPlugins/reaper_reapack64.dll",
@@ -1219,14 +1219,14 @@
       {
         "path": "UserPlugins/reaper_reapack64.dylib",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.1rc7/reaper_reapack64.dylib",
-        "sha256": ""
+        "sha256": "0ms0r9zgm7m6gi0q3kfyvjw34jpi1k20jc1w1xwv2m4p45h5qsbq"
       }
     ],
     "1.1rc6": [
       {
         "path": "UserPlugins/reaper_reapack32.dll",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.1rc6/reaper_reapack32.dll",
-        "sha256": ""
+        "sha256": "0kdmqs09f0l9xdvsvyqbswxqgd7j22jav7nphm2daav14nqy2zdi"
       },
       {
         "path": "UserPlugins/reaper_reapack32.dylib",
@@ -1270,7 +1270,7 @@
       {
         "path": "UserPlugins/reaper_reapack32.dll",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.1rc4/reaper_reapack32.dll",
-        "sha256": ""
+        "sha256": "163cw7cmv7aj1rip778wgi0dl5ja7x1f6m3gh4r2vn4f5pc39zz9"
       },
       {
         "path": "UserPlugins/reaper_reapack32.dylib",
@@ -1556,7 +1556,7 @@
       {
         "path": "UserPlugins/reaper_reapack32.dll",
         "url": "https://github.com/cfillion/reapack/releases/download/v0.8-beta/reaper_reapack32.dll",
-        "sha256": ""
+        "sha256": "1ix42sh0xx34sydkdkglh37gyncm2wr9rydxr1zqgsja15ww739m"
       },
       {
         "path": "UserPlugins/reaper_reapack32.dylib",
